@@ -1,4 +1,4 @@
-# firebase_demo
+# ad_mob_demo
 
 A new Flutter application.
 
