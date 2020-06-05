@@ -76,8 +76,8 @@ class _BandVotesDetailsState extends State<BandVotesDetails> {
                     ),
                     InkWell(
                       onTap: () {
-                        document.reference
-                            .updateData({'value': document['value'] + 1});
+//                        document.reference
+//                            .updateData({'value': document['value'] + 1});
                       },
                       child: Text(
                         document['value'].toString(),
